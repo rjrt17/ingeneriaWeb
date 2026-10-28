@@ -176,3 +176,15 @@ body.bodylogin{
     text-decoration: underline;
     
 }
+
+@media (max-width: 800px) {
+    .wrapper h1 {
+        color: blue;
+    }
+}
+
+@media (max-width: 450px) {
+    .wrapper h1 {
+        color: red;
+    }
+}
